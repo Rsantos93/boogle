@@ -1,0 +1,122 @@
+body {
+margin; 0px:
+}
+.links {
+    width: 250px;
+    display: flex;
+    justify-content: space-around;
+
+}
+.entryicon {
+    display: flex;
+    justify-content: space-around;
+    width: 100px;
+
+
+}
+.top {
+    height: 40px;
+    border: 10px;
+    display: flex;
+    justify-content: flex-end;
+
+}
+
+.center {
+    width: 272px;
+    height: 92px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15%;
+
+}
+
+.centered {
+margin-top:15px;
+
+}
+
+.placeholder {
+
+    text-align: center;
+    width: 600px;
+    height: 30px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom:15px;
+    border-radius: 40px;
+    border: 0.5px solid grey;
+
+}
+
+
+.endbar {
+    margin-top: 10%;
+    background-color: #f1f1f1;
+    position: relative;
+}
+
+.subtitle {
+    display:flex;
+    margin:15px;
+    justify-content: center;
+}
+
+.button {
+    margin-left: 40%;
+    margin-right: 40%;
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    position: relative;
+    }
+
+
+.linkend {
+    display: flex;
+    justify-content: space-around;
+    align-content: flex-start;
+
+
+}
+
+.polit {
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+    flex-wrap: wrap;
+
+}
+
+.title {
+    border-bottom: 1px solid grey;
+    font-size: 18px;
+    font-family: arial, sans-serif;
+    color: #989e99;
+
+}
+
+a {
+    font-size: 14px;
+    font-family: arial,sans-serif;
+    color: #989e99;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:active {
+  text-decoration: underline;
+}
+
